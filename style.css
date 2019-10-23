@@ -14,3 +14,10 @@ body{
     width: 100px;
     margin-bottom: -50px;
   }
+  #footer{
+    display: block;
+  
+  }
+  #footer ul li {
+    list-style: none;
+  }
